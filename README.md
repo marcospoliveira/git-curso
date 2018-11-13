@@ -3,8 +3,10 @@
 
 Iniciando documentação em GiF low
 
-Arquivo para iniciant
+Arquivo para iniciante
 
 Teste de edição
 
 Atualizando arquivo
+
+Verificação de log
